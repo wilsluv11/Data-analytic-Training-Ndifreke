@@ -1,2 +1,2 @@
-# Data-analytic-Training-Ndifreke
+# Data-analytic-ReposTraining
 This training will be used for research purpose
